@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%2C%20I'm%20Hossam!&height=120&color=gradient" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%2C%20I'm%20Hossam!&height=120&color=black" alt="Welcome Banner" />
 </p>
 
 <h2 align="center">💻 Full Stack .NET Developer</h2>
