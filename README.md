@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=مرحباً%20أنا%20Hossam!&height=120&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%2C%20I'm%20Hossam!&height=120&color=gradient" alt="Welcome Banner" />
 </p>
 
-<h3 align="center">Full Stack .NET Developer</h3>
+<h2 align="center">💻 Full Stack .NET Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hossam-mostafa-b9421b28a/">
@@ -11,39 +11,46 @@
   <a href="https://x.com/Hosam__mostafa">
     <img src="https://img.shields.io/badge/X-black?logo=x&style=flat-square" alt="X / Twitter" />
   </a>
+  <a href="mailto:hossammostafa6520@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 عني
+## 👨‍💻 About Me
 
-أنا مطور Full Stack مع تركيز قوي على تقنيات **.NET / ASP.NET Core و Angular**.  
-أحب أعمل مشاريع يكون ليها تأثير، أتعلم تقنيات جديدة باستمرار، وأشارك كل ما أتعلمه.
+I'm **Hossam Mostafa**, a passionate **Full Stack .NET Developer** specialized in  
+**ASP.NET Core, C#, and Angular**.  
+
+I enjoy building **scalable, secure, and user-friendly web applications**.  
+Always eager to learn new technologies and improve my skills through real-world projects.
 
 ---
 
-## 🛠 المهارات
+## 🛠️ Tech Skills
 
-| الجانب | المهارات |
+| Area | Skills |
 |---|---|
-| Backend / .NET | C#, ASP.NET Core, Entity Framework |
-| Frontend | Angular, HTML, CSS, JavaScript |
-| أدوات & تقنيات أخرى | Git, REST APIs, SQL |
-| أفضل ممارسات | كتابة كود نظيف، الأداء، الأمان |
+| Backend / .NET | ASP.NET Core, C#, Entity Framework |
+| Frontend | Angular, JavaScript (ES6+), HTML5, CSS3 |
+| Databases | SQL Server |
+| Tools | Git, REST APIs, Visual Studio / VS Code |
+| Practices | Clean Code, Security, Performance Optimization |
 
 ---
 
-## 🔍 بعض المشاريع المميزة
+## 🚀 Featured Projects
 
-- **Almasa** — (وصف بسيط، التقنيات)  
-- **projectgraduation** — مشروع التخرج، backend + frontend  
-- **semiFinalProject-E-Commerce-0** — مشروع متجر تجريبي  
-- **Project-JS-ITI** — مشروع في JavaScript ضمن دورة  
-- **exam2 / First_exam** — مشاريع دراسية (لو فيها شيء مميز أذكره)
+- **Almasa** — Enterprise-level project (ASP.NET Core + Angular).  
+- **Graduation Project** — AI-powered drowning detection dashboard (Backend + Frontend).  
+- **E-Commerce App** — Semi-final project: online store with product management and UI.  
+- **Project-JS-ITI** — JavaScript training project (ITI).  
+- **Exam Projects** — Academic projects for learning/testing purposes.  
 
 ---
 
-## 📊 إحصائيات
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HosamMosstfa&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,13 +58,13 @@
 
 ---
 
-## 📫 تواصل معي
+## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/hossam-mostafa-b9421b28a/  
-- X: https://x.com/Hosam__mostafa  
-- إذا تحب تضيف إيميل أو موقع، ضيفه هنا
+- 📧 Email: **hossammostafa6520@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/hossam-mostafa-b9421b28a](https://www.linkedin.com/in/hossam-mostafa-b9421b28a/)  
+- 🐦 X (Twitter): [x.com/Hosam__mostafa](https://x.com/Hosam__mostafa)  
 
 ---
 
-> ✨ “التعلم المستمر هو سر التقدم”  
-> إذا عندك فكرة مشروع أو حابب تتعاون، تواصل معايا 😊
+✨ *“Continuous learning is the key to progress.”*  
+If you have an idea or want to collaborate, feel free to reach out!
